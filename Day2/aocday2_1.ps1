@@ -1,4 +1,4 @@
-# day 2 - find invalid product IDs
+# AOC day 2 - find invalid product IDs
 
 $data = Get-Content "\puzzle_input_2.txt"
 

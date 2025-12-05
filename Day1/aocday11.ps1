@@ -1,4 +1,4 @@
-# day 1 solver
+# AOC day 1
 
 $input = Get-Content .\puzzle_input.txt
 
